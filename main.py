@@ -142,4 +142,4 @@ edit_button = tk.Button(root, command=button_edit_on_off, text="Edit", backgroun
 edit_button.grid(row=9, column=53, padx=6, pady=2)
 
 # run the application
-root.mainloop()
+root.mainloop() 
